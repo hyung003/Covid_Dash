@@ -3,4 +3,4 @@
   
 ### Python Dash:
 
-![](image/Architecture_Diagram_Training.png)
+![](image/covid.png)
