@@ -1,0 +1,16 @@
+.idea
+Class0-Intro/.ipynb_checkpoints
+Class1/.ipynb_checkpoints
+Class2/.ipynb_checkpoints
+chinook.db
+chinook.sql
+chinook.zip
+*.joblib
+Class3/.ipynb_checkpoints
+Class4/.ipynb_checkpoints
+Class5/.ipynb_checkpoints
+.ipynb_checkpoints
+venv
+*.pyc
+.DS_Store
+.env
